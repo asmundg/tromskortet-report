@@ -1,0 +1,5 @@
+.credentials.json
+tsconfig.tsbuildinfo
+yarn-error.log
+lib/
+node_modules/
