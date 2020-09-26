@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
+  "author": "Åsmund Grammeltvedt <asmundg@big-oil.org>",
   "scripts": {
     "build": "tsc --incremental",
     "report": "node lib/report.js"
